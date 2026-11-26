@@ -2,7 +2,7 @@
 
 专为 Pebble Time 2 打造的简体中文语言包，解决官方语言包宋体字形裁顶、社区包字号偏小且无真粗体的问题。
 
-当前版本：**v9**，请到 [Releases](../../releases) 下载 `pebble-zh-CN-notosans-v9.pbl`。
+当前版本：**v10**，请到 [Releases](../../releases) 下载 `pebble-zh-CN-notosans-v10.pbl`。
 
 ![预览](preview-zh.png)
 
@@ -24,7 +24,7 @@
 
 ## 安装
 
-1. 下载 `pebble-zh-CN-notosans-v9.pbl`（约 6.3 MB）
+1. 下载 `pebble-zh-CN-notosans-v10.pbl`（约 6.3 MB）
 2. 用 Pebble 手机 App 打开该文件即可安装；如装过其他中文包，先在 App 里删掉旧包再装
 3. 安装后在语言设置里选择「简体中文」
 
