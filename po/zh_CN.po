@@ -1,0 +1,3015 @@
+# Simplified Chinese translations for PebbleOS (Noto Sans SC language pack).
+# SPDX-License-Identifier: MIT
+msgid ""
+msgstr ""
+"Project-Id-Version: 11\n"
+"Language: zh_CN\n"
+"Name: 简体中文\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Team: Chinese (Simplified Han script)\n"
+
+msgid " "
+msgstr " "
+
+msgid " - "
+msgstr " - "
+
+msgid " MIN. TO"
+msgstr " 分钟到"
+
+msgid " d"
+msgstr " 天"
+
+msgid " day"
+msgstr " 天"
+
+msgid " days"
+msgstr " 天"
+
+msgid " hour"
+msgstr " 小时"
+
+msgid " hours"
+msgstr " 小时"
+
+msgid " hr"
+msgstr " 小时"
+
+msgid " min"
+msgstr " 分钟"
+
+msgid " minute"
+msgstr " 分钟"
+
+msgid " minutes"
+msgstr " 分钟"
+
+msgid " mo"
+msgstr " 个月"
+
+msgid " month"
+msgstr " 个月"
+
+msgid " months"
+msgstr " 个月"
+
+msgid " sec"
+msgstr " 秒"
+
+msgid " second"
+msgstr " 秒"
+
+msgid " seconds"
+msgstr " 秒"
+
+msgid " year"
+msgstr " 年"
+
+msgid " years"
+msgstr " 年"
+
+msgid " yr"
+msgstr " 年"
+
+msgid "%.*s is not responding"
+msgstr "%.*s 无响应"
+
+msgid "%A"
+msgstr "%A"
+
+msgid "%B "
+msgstr "%m月"
+
+msgid "%B %d"
+msgstr "%m月%d日"
+
+msgid "%B %e"
+msgstr "%m月%e日"
+
+msgid "%H:%M"
+msgstr "%H:%M"
+
+msgid "%H:%M:%S"
+msgstr "%H:%M:%S"
+
+msgid "%I:%M:%S %p"
+msgstr "%p%I:%M:%S"
+
+msgid "%R"
+msgstr "%R"
+
+msgid "%a %b %e %H:%M:%S %Y"
+msgstr "%Y年%m月%e日 %A %H:%M:%S"
+
+msgid "%a, %R"
+msgstr "%a %R"
+
+msgid "%a, %b %d"
+msgstr "%m月%d日 %A"
+
+msgid "%a, %l:%M %p"
+msgstr "%a %p%l:%M"
+
+msgid "%a: "
+msgstr "%a："
+
+msgid "%b "
+msgstr "%m月"
+
+msgid "%b %e, %R"
+msgstr "%m月%e日 %R"
+
+msgid "%b %e, %l:%M %p"
+msgstr "%m月%e日 %p%l:%M"
+
+msgid "%d"
+msgstr "%d"
+
+msgid "%d BPM"
+msgstr "%d BPM"
+
+msgid "%d Min"
+msgstr "%d 分"
+
+msgid "%d%s."
+msgstr "%d%s。"
+
+msgid "%d,%03d"
+msgstr "%d,%03d"
+
+msgid "%d.%d"
+msgstr "%d.%d"
+
+msgid "%d:%d"
+msgstr "%d:%d"
+
+msgid "%dH"
+msgstr "%dH"
+
+msgid "%dM"
+msgstr "%dM"
+
+msgid "%d–%d BPM"
+msgstr "%d–%d BPM"
+
+msgid "%e"
+msgstr "%e日"
+
+msgid "%i°"
+msgstr "%i°"
+
+msgid "%i° - %s"
+msgstr "%i° - %s"
+
+msgid "%i° / %i°"
+msgstr "%i° / %i°"
+
+msgid "%i° / --°"
+msgstr "%i° / --°"
+
+msgid "%k"
+msgstr "%k"
+
+msgid "%l"
+msgstr "%l"
+
+msgid "%l%p"
+msgstr "%l%p"
+
+msgid "%l:%M"
+msgstr "%l:%M"
+
+msgid "%l:%M %p"
+msgstr "%p%l:%M"
+
+msgid "%l:%M%p"
+msgstr "%l:%M%p"
+
+msgid "%lu H AGO"
+msgstr "%lu 小时前"
+
+msgid "%lu MIN AGO"
+msgstr "%lu 分钟前"
+
+msgid "%lu hours ago"
+msgstr "%lu 小时前"
+
+msgid "%lu minute ago"
+msgstr "%lu 分钟前"
+
+msgid "%lu minutes ago"
+msgstr "%lu 分钟前"
+
+msgid "%m/%d"
+msgstr "%m月%d日"
+
+msgid "%m/%d/%y"
+msgstr "%y/%m/%d"
+
+msgid "%p"
+msgstr "%p"
+
+msgid "%s %d%s."
+msgstr "%s风 %d%s。"
+
+msgid "%s (%u)"
+msgstr "%s (%u)"
+
+msgid "%s - %s"
+msgstr "%s - %s"
+
+msgid "%s at %d%s."
+msgstr "%s风 %d%s。"
+
+msgid "%s of sleep"
+msgstr "%s 睡眠"
+
+msgid ""
+"%s%.*s is not responding.\n"
+"\n"
+"Open app?"
+msgstr ""
+"%s%.*s 无响应。\n"
+"\n"
+"打开应用？"
+
+msgid "%u Paired Phone"
+msgstr "%u 部已配对手机"
+
+msgid "%u Paired Phones"
+msgstr "%u 部已配对手机"
+
+msgid "%u Steps"
+msgstr "%u 步"
+
+msgid "%uH %uM Sleep"
+msgstr "%u小时 %u分 睡眠"
+
+msgid ", "
+msgstr ", "
+
+msgid ", and "
+msgstr "，和 "
+
+msgid "--°"
+msgstr "--°"
+
+msgid "--° / %i°"
+msgstr "--° / %i°"
+
+msgid "--° / --°"
+msgstr "--° / --°"
+
+msgid "1 Day"
+msgstr "1 天"
+
+msgid "1 Hour"
+msgstr "1小时"
+
+msgid "1 Minute"
+msgstr "1分钟"
+
+msgid "1 Week"
+msgstr "1 周"
+
+msgid "1 hour"
+msgstr "1小时"
+
+msgid "10 Min Before"
+msgstr "提前10分钟"
+
+msgid "10 Minutes"
+msgstr "10分钟"
+
+msgid "10 back-button presses"
+msgstr "连按返回键 10 次"
+
+msgid "10 minutes"
+msgstr "10分钟"
+
+msgid "12h"
+msgstr "12小时制"
+
+msgid "15 Min Before"
+msgstr "提前15分钟"
+
+msgid "15 Seconds"
+msgstr "15秒"
+
+msgid "15 minutes"
+msgstr "15分钟"
+
+msgid "24h"
+msgstr "24小时制"
+
+msgid "3 Minutes"
+msgstr "3分钟"
+
+msgid "3 Seconds"
+msgstr "3秒"
+
+msgid "30 DAY"
+msgstr "30天"
+
+msgid "30 DAY AVG"
+msgstr "30天平均"
+
+msgid "30 Min Before"
+msgstr "提前30分钟"
+
+msgid "30 Minutes"
+msgstr "30分钟"
+
+msgid "30 Seconds"
+msgstr "30秒"
+
+msgid "30 minutes"
+msgstr "30分钟"
+
+msgid "5 Min Before"
+msgstr "提前5分钟"
+
+msgid "5 Minutes"
+msgstr "5分钟"
+
+msgid "5 Seconds"
+msgstr "5秒"
+
+msgid "5 minutes"
+msgstr "5分钟"
+
+msgid "8 Seconds"
+msgstr "8秒"
+
+msgid ":"
+msgstr ":"
+
+msgid ": "
+msgstr "："
+
+msgid "<Untitled>"
+msgstr "<无标题>"
+
+msgid "A bug report has been captured. Please finish uploading the bug report using the Pebble phone app."
+msgstr "已捕获错误报告。请使用 Pebble 手机应用完成上传。"
+
+msgid "A good night's sleep goes a long way! Try to get more hours tonight."
+msgstr "充足的睡眠对您大有裨益！今晚试着多睡一会儿。"
+
+msgid "A long night! Great for catching up; a steady routine helps most."
+msgstr "睡得很久！补觉不错，规律作息更重要。"
+
+msgid "ABOVE AVG"
+msgstr "高于平均"
+
+msgid "ALS Threshold"
+msgstr "环境光阈值"
+
+msgid "AM"
+msgstr "AM"
+
+msgid "AVG"
+msgstr "平均"
+
+msgid "AVG BPM"
+msgstr "平均心率"
+
+msgid "AVG PACE"
+msgstr "平均配速"
+
+msgid "AVG PACE (/KM)"
+msgstr "平均配速 (公里)"
+
+msgid "AVG PACE (/MI)"
+msgstr "平均配速 (英里)"
+
+msgid "About average"
+msgstr "一般"
+
+msgid "About the same"
+msgstr "差不多"
+
+msgid "Above avg"
+msgstr "高于平均"
+
+msgid "Accent Color"
+msgstr "主题色"
+
+msgid "Actions"
+msgstr "操作"
+
+msgid "Active"
+msgstr "使用中"
+
+msgid "Active Calories"
+msgstr "活动卡路里"
+
+msgid "Activity Summary"
+msgstr "活动摘要"
+
+msgid ""
+"Add contacts in\n"
+"mobile app"
+msgstr ""
+"在手机应用中\n"
+"添加联系人"
+
+msgid "Add them in the app"
+msgstr "请在应用中添加"
+
+msgid "Added"
+msgstr "已添加"
+
+msgid "Advanced"
+msgstr "高级"
+
+msgid ""
+"Airplane\n"
+"Mode Off"
+msgstr ""
+"飞行\n"
+"模式关"
+
+msgid ""
+"Airplane\n"
+"Mode On"
+msgstr ""
+"飞行\n"
+"模式开"
+
+msgid "Airplane Mode"
+msgstr "飞行模式"
+
+msgid ""
+"Airplane Mode\n"
+"Off"
+msgstr ""
+"飞行模式\n"
+"关"
+
+msgid ""
+"Airplane Mode\n"
+"On"
+msgstr ""
+"飞行模式\n"
+"开"
+
+msgid "Alarm"
+msgstr "闹钟"
+
+msgid "Alarm Deleted"
+msgstr "闹钟已删除"
+
+msgid "Alarm dismissed"
+msgstr "闹钟已关闭"
+
+msgctxt "AlarmSound"
+msgid "Off"
+msgstr "关"
+
+msgid "Alarms"
+msgstr "闹钟"
+
+msgid "All"
+msgstr "全部"
+
+msgid "All Day"
+msgstr "全天"
+
+msgid "All clear"
+msgstr "一切正常"
+
+msgid "All clear."
+msgstr "一切正常。"
+
+msgid "All day"
+msgstr "全天"
+
+msgid "Allow All Notifications"
+msgstr "允许所有通知"
+
+msgid "Allow Phone Calls"
+msgstr "允许来电"
+
+msgid "Allow Phone Calls Only"
+msgstr "仅允许来电"
+
+msgid "Almost a full tank! You slept for %dH %dM. Bank a little extra shut eye tonight 😴"
+msgstr "快满电啦！您睡了 %d小时 %d分。今晚再多补一点觉吧 😴"
+
+msgid "Almost there! A little more sleep tonight would help."
+msgstr "就差一点！今晚多睡一会儿会更好。"
+
+msgid "Ambient Sensor"
+msgstr "环境光传感器"
+
+msgid "An hour ago"
+msgstr "一小时前"
+
+msgid "Appears on your watchface when an event is about to start."
+msgstr "事件即将开始时显示在表盘上。"
+
+msgid "Apps"
+msgstr "应用"
+
+msgid "Apr"
+msgstr "4月"
+
+msgid "April"
+msgstr "4月"
+
+msgid "Aren't naps great? You knocked out for %dH %dM!"
+msgstr "小睡很棒吧？您睡了 %d小时 %d分！"
+
+msgid "At %d%s."
+msgstr "风速 %d%s。"
+
+msgid "Aug"
+msgstr "8月"
+
+msgid "August"
+msgstr "8月"
+
+msgid "Automatic"
+msgstr "自动"
+
+msgid "Avg HR"
+msgstr "平均心率"
+
+msgid "Avg Pace"
+msgstr "平均配速"
+
+msgid "Awesome!"
+msgstr "太棒了！"
+
+msgid "BACKLIGHT"
+msgstr "背光"
+
+msgid "BELOW AVG"
+msgstr "低于平均"
+
+msgid "BPM"
+msgstr "BPM"
+
+msgid "BT Address"
+msgstr "蓝牙地址"
+
+msgid "Background App"
+msgstr "后台应用"
+
+msgid "Backlight"
+msgstr "背光"
+
+msgid "Backlight Off"
+msgstr "背光关"
+
+msgid "Backlight On"
+msgstr "背光开"
+
+msgid "Backlight Settings"
+msgstr "背光设置"
+
+msgid "Banner Style"
+msgstr "横幅样式"
+
+msgid "Basic Alarm"
+msgstr "基本闹钟"
+
+msgid "Battery Saver"
+msgstr "省电模式"
+
+msgid "Beacon"
+msgstr "信标"
+
+msgid "Beginning"
+msgstr "开始时"
+
+msgid "Bell"
+msgstr "钟声"
+
+msgid "Below avg"
+msgstr "低于平均"
+
+msgid "Below freezing"
+msgstr "零下"
+
+msgid "Below freezing."
+msgstr "零下。"
+
+msgid "Big & Bold"
+msgstr "大号粗体"
+
+msgid "Blinding"
+msgstr "刺眼"
+
+msgid "Bluetooth"
+msgstr "蓝牙"
+
+msgid "Bold"
+msgstr "粗体"
+
+msgid "Bootloader"
+msgstr "引导程序"
+
+msgid "Bright"
+msgstr "明亮"
+
+msgid "Broadcaster"
+msgstr "转播频道"
+
+msgid "CADENCE"
+msgstr "步频"
+
+msgid "CALORIES"
+msgstr "卡路里"
+
+msgid "CITY SELECT"
+msgstr "选择城市"
+
+msgid "COMPLETE"
+msgstr "完成"
+
+msgid "CONSISTENT!"
+msgstr "坚持不懈！"
+
+msgid "CURRENT UV"
+msgstr "当前紫外线"
+
+msgid "CUSTOM"
+msgstr "自定义"
+
+msgid "Calendar"
+msgstr "日历"
+
+msgid "Calendar Aware"
+msgstr "日历联动"
+
+msgid "Calendar Aware enables Quiet Time automatically during calendar events."
+msgstr "日历联动会在日历事件期间自动开启勿扰时间。"
+
+msgid "Call Accepted"
+msgstr "电话已接听"
+
+msgid "Call Back"
+msgstr "回拨"
+
+msgid "Call Declined"
+msgstr "电话已拒接"
+
+msgid "Call Ended"
+msgstr "通话已结束"
+
+msgid "Call me"
+msgstr "打给我"
+
+msgid "Call you later"
+msgstr "稍后打给你"
+
+msgid "Calm breeze"
+msgstr "轻风"
+
+msgid "Calm breeze."
+msgstr "轻风。"
+
+msgid "Can't connect. Relaunch Pebble Time app on phone."
+msgstr "无法连接。请重新启动手机上的 Pebble Time 应用。"
+
+msgid "Can't stop, won't stop 👊"
+msgstr "停不下来，也不会停 👊"
+
+msgid "Canada IC"
+msgstr "加拿大 IC"
+
+msgid "Canada ISED"
+msgstr "加拿大 ISED"
+
+msgid "Canned messages"
+msgstr "快捷回复"
+
+msgid "Centered"
+msgstr "居中"
+
+msgid "Certification"
+msgstr "认证"
+
+msgid "Chance of rain"
+msgstr "可能有雨"
+
+msgid "Chance of rain."
+msgstr "可能有雨。"
+
+msgid "Chance of sleet"
+msgstr "可能有雨夹雪"
+
+msgid "Chance of sleet."
+msgstr "可能有雨夹雪。"
+
+msgid "Chance of snow"
+msgstr "可能有雪"
+
+msgid "Chance of snow."
+msgstr "可能有雪。"
+
+msgid "Chance of storms"
+msgstr "可能有雷雨"
+
+msgid "Chance of storms."
+msgstr "可能有雷雨。"
+
+msgid "Change Days"
+msgstr "更改重复日"
+
+msgid "Change Schedule"
+msgstr "更改定时"
+
+msgid "Change Time"
+msgstr "更改时间"
+
+msgid "Charging"
+msgstr "充电中"
+
+msgid "Check bluetooth connection"
+msgstr "请检查蓝牙连接"
+
+msgid "Check something first."
+msgstr "请至少勾选一项。"
+
+msgid "Chime"
+msgstr "风铃"
+
+msgid "Classic"
+msgstr "经典"
+
+msgid "Clear"
+msgstr "晴"
+
+msgid "Clear All"
+msgstr "全部清除"
+
+msgid "Clear Notification History"
+msgstr "清除通知历史记录"
+
+msgid "Clear history?"
+msgstr "清除历史记录？"
+
+msgid "Clear skies"
+msgstr "晴朗"
+
+msgid "Clear skies."
+msgstr "晴朗。"
+
+msgid "Clock Style"
+msgstr "时钟样式"
+
+msgid "Cloudy"
+msgstr "阴"
+
+msgid "Compact Settings DBs"
+msgstr "压缩设置数据库"
+
+msgid "Company"
+msgstr "公司"
+
+msgid "Completed"
+msgstr "已完成"
+
+msgid "Congratulations - you're having a super active day! Activity makes you more focused and creative. How do you feel?"
+msgstr "恭喜！您今天非常活跃！运动能让您更专注、更有创造力。您感觉如何？"
+
+msgid "Connected"
+msgstr "已连接"
+
+msgid "Connection"
+msgstr "连接"
+
+msgid "Convert to Basic Alarm"
+msgstr "转换为基本闹钟"
+
+msgid "Convert to Smart Alarm"
+msgstr "转换为智能闹钟"
+
+msgid "Core dump and reboot?"
+msgstr "生成核心转储并重启？"
+
+msgid "CoreDump now"
+msgstr "立即核心转储"
+
+msgid "CoreDump shortcut"
+msgstr "核心转储快捷键"
+
+msgid "Current Location"
+msgstr "当前位置"
+
+msgid "Custom"
+msgstr "自定义"
+
+msgid "DARK MODE"
+msgstr "深色模式"
+
+msgid "DC Input"
+msgstr "直流输入"
+
+msgid "DEEP SLEEP"
+msgstr "深度睡眠"
+
+msgid "DIST KM"
+msgstr "距离 公里"
+
+msgid "DIST MI"
+msgstr "距离 英里"
+
+msgid "DISTANCE"
+msgstr "距离"
+
+msgid "DISTANCE (KM)"
+msgstr "距离 (公里)"
+
+msgid "DISTANCE (MI)"
+msgstr "距离 (英里)"
+
+msgid "DURATION"
+msgstr "时长"
+
+msgid "DYNAMIC BACKLIGHT"
+msgstr "动态背光"
+
+msgid "Dark Mode"
+msgstr "深色模式"
+
+msgid "Date & Time"
+msgstr "日期和时间"
+
+msgid "Debugging"
+msgstr "调试"
+
+msgid "Dec"
+msgstr "12月"
+
+msgid "December"
+msgstr "12月"
+
+msgid "Decline dialog."
+msgstr "拒绝对话框。"
+
+msgid "Default"
+msgstr "默认"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "Deleted"
+msgstr "已删除"
+
+msgctxt "DeviceState"
+msgid "Off"
+msgstr "关"
+
+msgctxt "DeviceState"
+msgid "On"
+msgstr "开"
+
+msgid "Dictation is not available."
+msgstr "语音输入不可用。"
+
+msgid "Didn’t that walk feel good?"
+msgstr "散步的感觉不错吧？"
+
+msgid "Dim"
+msgstr "昏暗"
+
+msgid "Disable"
+msgstr "禁用"
+
+msgid "Disable Airplane Mode to connect."
+msgstr "请关闭飞行模式以连接。"
+
+msgid "Disabled"
+msgstr "禁用"
+
+msgid "Disabling..."
+msgstr "正在禁用…"
+
+msgid "Disconnect the charger to shut down."
+msgstr "断开充电器即可关机。"
+
+msgid "Disconnected"
+msgstr "已断开连接"
+
+msgid "Dismiss"
+msgstr "关闭"
+
+msgid "Dismiss All"
+msgstr "全部关闭"
+
+msgid "Dismissed"
+msgstr "已关闭"
+
+msgid "Display"
+msgstr "显示"
+
+msgid "Distance"
+msgstr "距离"
+
+msgid "Distance Unit"
+msgstr "距离单位"
+
+msgid "Do you feel more energetic, sharper or optimistic? Being active helps!"
+msgstr "您是否感到更有精力、更敏锐或更乐观？动起来会有帮助！"
+
+msgid "Do you want to shut down?"
+msgstr "要关机吗？"
+
+msgid "Done"
+msgstr "完成"
+
+msgid "Double Pulse Medium"
+msgstr "双脉冲(中)"
+
+msgid "Double Tap"
+msgstr "双击"
+
+msgid "Dyn BL Min Threshold"
+msgstr "动态背光最小阈值"
+
+msgctxt "DynBacklight"
+msgid "Off"
+msgstr "关"
+
+msgid "Dynamic Backlight"
+msgstr "动态背光"
+
+msgid "E"
+msgstr "东"
+
+msgid "END WORKOUT?"
+msgstr "结束锻炼？"
+
+msgid "ENDURANCE"
+msgstr "耐力"
+
+msgid "EVERY DAY"
+msgstr "每天"
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "Emoji"
+msgstr "表情"
+
+msgid "Enable"
+msgstr "启用"
+
+msgid "Enable Pebble Health in the mobile app to track workouts"
+msgstr "在手机应用中启用 Pebble Health 以追踪锻炼"
+
+msgid "Enable heart rate monitoring in the mobile app"
+msgstr "在手机应用中启用心率监测"
+
+msgid "Enable voice in the settings page of the Pebble app."
+msgstr "请在 Pebble 应用的设置中启用语音。"
+
+msgid "Enabled"
+msgstr "启用"
+
+msgid "Enabling..."
+msgstr "正在启用…"
+
+msgid "End"
+msgstr "结束"
+
+msgid "End Quiet Time"
+msgstr "结束勿扰时间"
+
+msgid "End Quiet Time?"
+msgstr "结束勿扰时间？"
+
+msgid "End Workout"
+msgstr "结束锻炼"
+
+msgid "End Workout?"
+msgstr "结束锻炼？"
+
+msgid "Endorphin rush?"
+msgstr "内啡肽上头了？"
+
+msgid "Endurance"
+msgstr "耐力"
+
+msgid "Error occurred. Try again."
+msgstr "发生错误。请重试。"
+
+msgid "Every Day"
+msgstr "每天"
+
+msgid "FAT BURN"
+msgstr "燃脂"
+
+msgid "Factory Reset"
+msgstr "恢复出厂设置"
+
+msgid "Failed"
+msgstr "失败"
+
+msgid "Fair conditions"
+msgstr "天气晴好"
+
+msgid "Fair conditions."
+msgstr "天气晴好。"
+
+msgid "Fat Burn"
+msgstr "燃脂"
+
+msgid "Feb"
+msgstr "2月"
+
+msgid "February"
+msgstr "2月"
+
+msgid "Feelin' good? You slept for %dH %dM. Nothing can stop you now 👊"
+msgstr "感觉不错？您睡了 %d小时 %d分。现在谁也挡不住您 👊"
+
+msgid "Feelin' hot? Cause you're on 🔥"
+msgstr "感觉火热？因为您正火力全开 🔥"
+
+msgid "Feels below freezing"
+msgstr "体感零下"
+
+msgid "Feels below freezing."
+msgstr "体感零下。"
+
+msgid "Feels freezing."
+msgstr "体感冰冷。"
+
+msgid "Feels like %d°"
+msgstr "体感 %d°"
+
+msgid "Feels like --"
+msgstr "体感 --"
+
+msgid "Filter"
+msgstr "过滤"
+
+msgid "Firmware"
+msgstr "固件版本"
+
+msgid "Flat Black"
+msgstr "纯黑"
+
+msgid "Flood risk"
+msgstr "洪涝风险"
+
+msgid "Flood risk."
+msgstr "洪涝风险。"
+
+msgid "Forget"
+msgstr "解除配对"
+
+msgid "Forget this device to pair a new device."
+msgstr "请先解除与此设备的配对，再配对新的设备。"
+
+msgid "Fri"
+msgstr "Fri"
+
+msgid "Friday"
+msgstr "周五"
+
+msgid "Fridays"
+msgstr "每周五"
+
+msgid "Fully Charged"
+msgstr "已充满"
+
+msgid "GO!"
+msgstr "GO!"
+
+msgid "GREAT DAY TODAY"
+msgstr "今天很棒"
+
+msgid "Gentle"
+msgstr "轻柔"
+
+msgid "Gettin' your step on?"
+msgstr "走起来了吗？"
+
+msgid "Golden hour"
+msgstr "黄金时段"
+
+msgid "Golden hour: %s"
+msgstr "黄金时段：%s"
+
+msgid "Golden hour: --:--"
+msgstr "黄金时段：--:--"
+
+msgid "Golden hr"
+msgstr "黄金时段"
+
+msgid "Good job! You walked %d steps today–do it again tomorrow."
+msgstr "做得好！您今天走了 %d 步，明天继续这样做。"
+
+msgid "Good mornin'! You slept for %dH %dM. Most adults need at least 7 hours; an early night tonight and you'll be unstoppable 👊"
+msgstr "早上好！您睡了 %d小时 %d分。成年人通常至少需要 7 小时，今晚早点睡，明天势不可挡 👊"
+
+msgid "Good morning! You slept for %dH %dM. Consistency is key; keep doing what you're doing 😃."
+msgstr "早上好！您睡了 %d小时 %d分。规律才是关键，就这样保持下去 😃。"
+
+msgid "Good morning! You slept for %dH %dM. Just a bit more sleep would help you feel your best."
+msgstr "早上好！您睡了 %d小时 %d分。再多睡一点，状态会更好。"
+
+msgid "Good mornin’. You slept for %dH %dM. Every good day begins with a solid night’s sleep...kinda like that one 😉 Keep it up!"
+msgstr "早上好。您睡了 %d小时 %d分。美好的一天从好睡眠开始...就像昨晚那样 😉 继续保持！"
+
+msgid "Goooood morning! You slept for %dH %dM which is %d%% below your typical. Go crush your day and then get back in bed 😉"
+msgstr "早上好——！您睡了 %d小时 %d分，比平时少了 %d%%。先去搞定今天，回头再补觉 😉"
+
+msgid "Groggy? You slept for %dH %dM which is %d%% below your typical. Sleep is important for everything you do-try getting more shut eye tonight!"
+msgstr "迷迷糊糊？您睡了 %d小时 %d分，比平时少了 %d%%。睡眠对什么都重要，今晚多睡一会儿！"
+
+msgid "Group by Sender"
+msgstr "按发件人分组"
+
+msgid "HEART RATE"
+msgstr "心率"
+
+msgid "HR During Activity"
+msgstr "活动时心率"
+
+msgid "HR Monitoring"
+msgstr "心率监测"
+
+msgid "Hail"
+msgstr "冰雹"
+
+msgid "Hail."
+msgstr "冰雹。"
+
+msgid "Hard frost"
+msgstr "霜冻"
+
+msgid "Hard frost."
+msgstr "霜冻。"
+
+msgid "Hardware"
+msgstr "硬件"
+
+msgid "Health"
+msgstr "健康"
+
+msgid "Health Tracking"
+msgstr "健康追踪"
+
+msgid "Health requires the time to be synced. Please connect your phone."
+msgstr "健康功能需要先同步时间。请连接手机。"
+
+msgid "Heart Rate Not Shared"
+msgstr "心率未共享"
+
+msgid "Heartbeat"
+msgstr "心跳"
+
+msgid "Heatwave"
+msgstr "热浪"
+
+msgid "Heatwave."
+msgstr "热浪。"
+
+msgid "Heavy rain"
+msgstr "大雨"
+
+msgid "Heavy rain."
+msgstr "大雨。"
+
+msgid "Heavy snow"
+msgstr "大雪"
+
+msgid "Heavy snow."
+msgstr "大雪。"
+
+msgid "Hey lightning bolt, way to go!"
+msgstr "闪电侠，干得漂亮！"
+
+msgid "Hey rockstar 🎤 You've walked %d steps today which is %d%% above your typical. Nothing can stop you!"
+msgstr "气场全开 🎤！您今天走了 %d 步，比平时多了 %d%%。没有人能阻挡您前进的步伐！"
+
+msgid "Hey sleepy head. You slept for %dH %dM which is %d%% below your typical. Try to get more tonight!"
+msgstr "还困着吧。您睡了 %d小时 %d分，比平时少了 %d%%。今晚多睡一会儿！"
+
+msgid "Hey speedster, we can barely keep up!"
+msgstr "飞毛腿，我们快跟不上了！"
+
+msgid "Hide"
+msgstr "隐藏"
+
+msgid "High"
+msgstr "高"
+
+msgid "High UV"
+msgstr "紫外线强"
+
+msgid "High UV."
+msgstr "紫外线强。"
+
+msgid "High humidity"
+msgstr "湿度高"
+
+msgid "High humidity."
+msgstr "湿度高。"
+
+msgid "High performance"
+msgstr "高性能"
+
+msgid "Hold Back"
+msgstr "长按返回键"
+
+msgid "Hold Center"
+msgstr "长按中键"
+
+msgid "Hold Down"
+msgstr "长按下键"
+
+msgid "Hold Up"
+msgstr "长按上键"
+
+msgid "Hourly Notice"
+msgstr "整点提示"
+
+msgid "How are you feeling? Have you noticed extra focus, better mood or extra energy? You have been sleeping great this week! Keep it up!"
+msgstr "您感觉如何？是否注意到注意力更集中、心情更好或精力更充沛？您这周睡眠很好！继续保持！"
+
+msgid "I didn't nap!?"
+msgstr "我没有小睡！？"
+
+msgid "I feel fabulous!"
+msgstr "我感觉棒极了！"
+
+msgid "I feel great!"
+msgstr "我感觉很好！"
+
+msgid "I need more"
+msgstr "我需要更多"
+
+msgid "I'm still tired"
+msgstr "我仍然很累"
+
+msgid "IN %lu H"
+msgstr "%lu 小时后"
+
+msgid "IN %lu MIN"
+msgstr "%lu 分钟后"
+
+msgid "INTENSITY"
+msgstr "强度"
+
+msgid "Imperial"
+msgstr "帝国进行曲"
+
+msgid "In %lu hour"
+msgstr "%lu 小时后"
+
+msgid "In %lu hours"
+msgstr "%lu 小时后"
+
+msgid "In %lu minute"
+msgstr "%lu 分钟后"
+
+msgid "In %lu minutes"
+msgstr "%lu 分钟后"
+
+msgid "In 15 minutes"
+msgstr "15 分钟后"
+
+msgid "Incoming Calls"
+msgstr "来电"
+
+msgid "Incompatible JS"
+msgstr "不兼容的 JS"
+
+msgid "Information"
+msgstr "信息"
+
+msgid "Insights Style"
+msgstr "洞察风格"
+
+msgid "Intensity"
+msgstr "强度"
+
+msgid "Intercom"
+msgstr "对讲"
+
+msgid "Interruptions"
+msgstr "允许打扰"
+
+msgid "It's a new day! You slept for %dH %dM which is %d%% below your typical. It's not your best, but there's always tonight."
+msgstr "新的一天！您睡了 %d小时 %d分，比平时少了 %d%%。虽然不算最好，但今晚还有机会。"
+
+msgid "It's great that you're keeping a consistent sleep routine!"
+msgstr "您保持着规律的睡眠习惯，这很好！"
+
+msgid "Jackhammer"
+msgstr "钻孔机"
+
+msgid "Jan"
+msgstr "1月"
+
+msgid "January"
+msgstr "1月"
+
+msgid "Jul"
+msgstr "7月"
+
+msgid "July"
+msgstr "7月"
+
+msgid "Jun"
+msgstr "6月"
+
+msgid "June"
+msgstr "6月"
+
+msgid "Just Once"
+msgstr "仅一次"
+
+msgid "KCAL"
+msgstr "千卡"
+
+msgid "KM"
+msgstr "公里"
+
+msgid "KM/H"
+msgstr "公里/时"
+
+msgid "Keep it up!"
+msgstr "继续努力！"
+
+msgid "Keepin' that heart healthy! ❤"
+msgstr "让心脏保持健康！❤"
+
+msgid "Killer job! You've walked %d steps today which is %d%% above your typical. Do it again tomorrow and you'll be on top of the world!"
+msgstr "太棒了！您今天走了 %d 步，比平时多了 %d%%。明天继续这个势头，感觉会棒极了！"
+
+msgid "Kilometers"
+msgstr "公里"
+
+msgid "Kraepelin"
+msgstr "Kraepelin"
+
+msgid "LAST MINUTE"
+msgstr "最后一分钟"
+
+msgid "Language"
+msgstr "语言"
+
+msgid "Larger"
+msgstr "较大"
+
+msgid "Last updated"
+msgstr "最后更新"
+
+msgid "Last updated %s"
+msgstr "更新于 %s"
+
+msgid "Last updated --:--"
+msgstr "更新于 --:--"
+
+msgid "Later today"
+msgstr "今天晚些时候"
+
+msgid "Left-Handed"
+msgstr "左手"
+
+msgid "Legacy App Display"
+msgstr "旧版应用显示"
+
+msgid "Legacy Apps"
+msgstr "旧版应用"
+
+msgid "Legal"
+msgstr "法律信息"
+
+msgid "Let us wake you in your lightest sleep so you're fully refreshed! Smart Alarm wakes you up to 30min before your alarm."
+msgstr "让我们在您睡眠最浅时唤醒您，让您神清气爽！智能闹钟最多可提前 30 分钟唤醒您。"
+
+msgid "Light Rain"
+msgstr "小雨"
+
+msgid "Light Snow"
+msgstr "小雪"
+
+msgid "Light winds"
+msgstr "微风"
+
+msgid "Light winds."
+msgstr "微风。"
+
+msgid "Limit reached."
+msgstr "已达到限制。"
+
+msgid "Listening"
+msgstr "正在聆听"
+
+msgid "Listening..."
+msgstr "正在聆听…"
+
+msgid "Location"
+msgstr "位置"
+
+msgid "Low"
+msgstr "低"
+
+msgid "Low power"
+msgstr "低功耗"
+
+msgid "MEASURING"
+msgstr "测量中"
+
+msgid "MI"
+msgstr "英里"
+
+msgid "MPH"
+msgstr "英里/时"
+
+msgid "Manual"
+msgstr "手动"
+
+msgid "Mar"
+msgstr "3月"
+
+msgid "March"
+msgstr "3月"
+
+msgid "Mario"
+msgstr "马里奥"
+
+msgid "Max Brightness"
+msgstr "最大亮度"
+
+msgid "Max Intensity"
+msgstr "最大强度"
+
+msgid "May"
+msgstr "5月"
+
+msgid "Medium"
+msgstr "中"
+
+msgid "Medium-High"
+msgstr "中高"
+
+msgid "Medium-Low"
+msgstr "中低"
+
+msgid "Mild conditions"
+msgstr "天气温和"
+
+msgid "Mild conditions."
+msgstr "天气温和。"
+
+msgid "Miles"
+msgstr "英里"
+
+msgid "Milliampere-hour"
+msgstr "毫安时"
+
+msgid "Missed that. Try again."
+msgstr "没听清。请重试。"
+
+msgid "Mmmm...what a night. You slept for %dH %dM which is %d%% above your typical. That's gotta feel good!"
+msgstr "嗯...舒服的一夜。您睡了 %d小时 %d分，比平时多了 %d%%。感觉一定很好！"
+
+msgid "Mmmm...what a night. You slept for %dH %dM. Extra sleep helps you recover, but most adults do best with 7 to 9 hours."
+msgstr "嗯…舒服的一夜。您睡了 %d小时 %d分。多睡有助恢复，不过成年人 7 到 9 小时最合适。"
+
+msgid "Mon"
+msgstr "Mon"
+
+msgid "Monday"
+msgstr "周一"
+
+msgid "Mondays"
+msgstr "每周一"
+
+msgctxt "MonthAbbr"
+msgid "Apr"
+msgstr "04/"
+
+msgctxt "MonthAbbr"
+msgid "Aug"
+msgstr "08/"
+
+msgctxt "MonthAbbr"
+msgid "Dec"
+msgstr "12/"
+
+msgctxt "MonthAbbr"
+msgid "Feb"
+msgstr "02/"
+
+msgctxt "MonthAbbr"
+msgid "Jan"
+msgstr "01/"
+
+msgctxt "MonthAbbr"
+msgid "Jul"
+msgstr "07/"
+
+msgctxt "MonthAbbr"
+msgid "Jun"
+msgstr "06/"
+
+msgctxt "MonthAbbr"
+msgid "Mar"
+msgstr "03/"
+
+msgctxt "MonthAbbr"
+msgid "May"
+msgstr "05/"
+
+msgctxt "MonthAbbr"
+msgid "Nov"
+msgstr "11/"
+
+msgctxt "MonthAbbr"
+msgid "Oct"
+msgstr "10/"
+
+msgctxt "MonthAbbr"
+msgid "Sep"
+msgstr "09/"
+
+msgid "Motion"
+msgstr "动作感应"
+
+msgid ""
+"Motion\n"
+"Backlight Off"
+msgstr ""
+"抬手\n"
+"背光关"
+
+msgid ""
+"Motion\n"
+"Backlight On"
+msgstr ""
+"抬手\n"
+"背光开"
+
+msgid "Motion Backlight"
+msgstr "抬手背光"
+
+msgid "Motion Sensitivity"
+msgstr "动作灵敏度"
+
+msgid "Music"
+msgstr "音乐"
+
+msgid "Mute %s"
+msgstr "静音 %s"
+
+msgid "Mute 1 Hour"
+msgstr "静音 1 小时"
+
+msgid "Mute All Notifications"
+msgstr "静音所有通知"
+
+msgid "Mute Always"
+msgstr "永久静音"
+
+msgid "Mute Speaker"
+msgstr "静音扬声器"
+
+msgid "Mute Today"
+msgstr "今日静音"
+
+msgid "Mute Weekdays"
+msgstr "工作日静音"
+
+msgid "Mute Weekends"
+msgstr "周末静音"
+
+msgid "Muted"
+msgstr "已静音"
+
+msgid "N"
+msgstr "北"
+
+msgid "NE"
+msgstr "东北"
+
+msgid "NOT VERY ACTIVE"
+msgstr "不太活跃"
+
+msgid "NOW"
+msgstr "现在"
+
+msgid "NW"
+msgstr "西北"
+
+msgid "Nap Time"
+msgstr "小睡时间"
+
+msgid "Never"
+msgstr "从不"
+
+msgid "New Alarm"
+msgstr "新建闹钟"
+
+msgid "New Smart Alarm"
+msgstr "新建智能闹钟"
+
+msgid "New day, new you! An early night gets you back on track 💪"
+msgstr "新的一天，新的自己！今晚早点睡就能找回状态 💪"
+
+msgid "New day, new you! You slept for %dH %dM. Tonight's a fresh shot at 7+ hours; go get 'em 💪"
+msgstr "新的一天，新的自己！您睡了 %d小时 %d分。今晚再冲 7 小时以上，加油 💪"
+
+msgid "Nice moves! You've walked %d steps today which is %d%% above your typical. Crush it again tomorrow 😀"
+msgstr "不错！您今天走了 %d 步，比平时多了 %d%%。明天继续努力 😀"
+
+msgid "No"
+msgstr "否"
+
+msgid "No Locations"
+msgstr "暂无位置"
+
+msgid "No background apps"
+msgstr "暂无后台应用"
+
+msgid "No events"
+msgstr "暂无事件"
+
+msgid ""
+"No internet\n"
+"connection"
+msgstr ""
+"无网络\n"
+"连接"
+
+msgid "No internet connection"
+msgstr "无网络连接"
+
+msgid "No location information available. To see weather, add locations in your Pebble mobile app."
+msgstr "位置信息不可用。要查看天气，请在 Pebble 手机应用中添加位置。"
+
+msgid "No notifications"
+msgstr "暂无通知"
+
+msgid ""
+"No sleep data,\n"
+"wear your watch\n"
+"to sleep"
+msgstr ""
+"暂无睡眠数据，\n"
+"请佩戴手表\n"
+"睡觉"
+
+msgid "None"
+msgstr "无"
+
+msgid "Not connected"
+msgstr "未连接"
+
+msgid "Not feeling it"
+msgstr "没什么感觉"
+
+msgid "Nothing"
+msgstr "无"
+
+msgctxt "NotifVibe"
+msgid "Disabled"
+msgstr "已关闭"
+
+msgid "Notifications"
+msgstr "通知"
+
+msgid "Nov"
+msgstr "11月"
+
+msgid "November"
+msgstr "11月"
+
+msgid "Now"
+msgstr "现在"
+
+msgid "Nudge Nudge"
+msgstr "轻推"
+
+msgid "OFF"
+msgstr "关"
+
+msgid "ON"
+msgstr "开"
+
+msgid "ON AVG"
+msgstr "平均"
+
+msgid "ONCE"
+msgstr "一次"
+
+msgid "Oct"
+msgstr "10月"
+
+msgid "October"
+msgstr "10月"
+
+msgid "Of napping"
+msgstr "小睡时长"
+
+msgid "Off"
+msgstr "关"
+
+msgid "Ok"
+msgstr "确定"
+
+msgid "On"
+msgstr "开"
+
+msgid "On (%d)"
+msgstr "开 (%d)"
+
+msgid "On - %d%%"
+msgstr "开 - %d%%"
+
+msgid "On - Auto Dismiss"
+msgstr "开 - 自动关闭"
+
+msgid "On - Persistent"
+msgstr "开 - 持续显示"
+
+msgid "On Disconnect"
+msgstr "断开连接时"
+
+msgid "On avg"
+msgstr "平均"
+
+msgid "Once"
+msgstr "一次"
+
+msgid "Open App"
+msgstr "打开应用"
+
+msgid "Open Pin"
+msgstr "打开卡片"
+
+msgid "Open Workout"
+msgstr "打开锻炼"
+
+msgid "Open favorite apps quickly with a long button press from your watchface."
+msgstr "在表盘上长按按键即可快速打开常用应用。"
+
+msgid "Open the Pebble app on your phone to connect."
+msgstr "打开手机上的 Pebble 应用以连接。"
+
+msgid "Orientation"
+msgstr "佩戴方向"
+
+msgctxt "Orientation"
+msgid "Default"
+msgstr "默认"
+
+msgid "Overlay"
+msgstr "叠加"
+
+msgid "PACE"
+msgstr "配速"
+
+msgid "PACE (/KM)"
+msgstr "配速 (公里)"
+
+msgid "PACE (/MI)"
+msgstr "配速 (英里)"
+
+msgid "PACE /KM"
+msgstr "配速 公里"
+
+msgid "PACE /MI"
+msgstr "配速 英里"
+
+msgid "PAUSED"
+msgstr "已暂停"
+
+msgid "PERFORMANCE"
+msgstr "表现"
+
+msgid "PM"
+msgstr "PM"
+
+msgid "PRECIPITATION"
+msgstr "降水概率"
+
+msgid "PRECIPITATION: %d%%"
+msgstr "降水概率：%d%%"
+
+msgid "PRECIPITATION: --"
+msgstr "降水概率：--"
+
+msgid "Pair?"
+msgstr "配对？"
+
+msgid "Pairing Instructions"
+msgstr "配对说明"
+
+msgid "Partly Cloudy"
+msgstr "多云"
+
+msgid "Pebble Morse"
+msgstr "Pebble 摩斯码"
+
+msgid "PebbleOS developers only!"
+msgstr "仅供 PebbleOS 开发者！"
+
+msgid "Perform factory reset?"
+msgstr "执行恢复出厂设置？"
+
+msgid "Performance"
+msgstr "表现"
+
+msgid "Place of Origin"
+msgstr "原产地"
+
+msgid "Playful"
+msgstr "趣味"
+
+msgid "Poor visibility"
+msgstr "能见度低"
+
+msgid "Poor visibility."
+msgstr "能见度低。"
+
+msgid "Postpone"
+msgstr "推迟"
+
+msgid "Power Mode"
+msgstr "电源模式"
+
+msgid "Powered 'til %s"
+msgstr "电量可维持至 %s"
+
+msgid "Precip. %d%%"
+msgstr "降水 %d%%"
+
+msgid "Precipitation %d%%"
+msgstr "降水概率 %d%%"
+
+msgid "Precipitation %d%%."
+msgstr "降水概率 %d%%。"
+
+msgid "Press and hold the Back button from a notification to turn Quiet Time on or off."
+msgstr "在通知界面长按返回键可开启或关闭勿扰时间。"
+
+msgid "Product Model"
+msgstr "产品型号"
+
+msgid "Product Type"
+msgstr "产品类型"
+
+msgid "Psst! Want smart tips about your activity and sleep? You can enable Insights in the mobile app."
+msgstr "悄悄告诉您！想要关于活动和睡眠的贴心建议？请在手机应用中启用 Insights。"
+
+msgid "Pulse"
+msgstr "脉冲"
+
+msgid "Quick Launch"
+msgstr "快捷启动"
+
+msgid "Quick View"
+msgstr "快速预览"
+
+msgid "Quickly dismiss all notifications by holding the Select button for 2 seconds from any incoming notification."
+msgstr "收到通知时，长按选择键 2 秒即可快速关闭所有通知。"
+
+msgid "Quiet All Notifications"
+msgstr "静音所有通知"
+
+msgid "Quiet Time"
+msgstr "勿扰时间"
+
+msgid ""
+"Quiet Time\n"
+"Ended"
+msgstr ""
+"勿扰时间\n"
+"已结束"
+
+msgid ""
+"Quiet Time\n"
+"Started"
+msgstr ""
+"勿扰时间\n"
+"已开始"
+
+msgctxt "QuietTime"
+msgid "Disabled"
+msgstr "禁用"
+
+msgctxt "QuietTime"
+msgid "Enabled"
+msgstr "启用"
+
+msgid "RAIN"
+msgstr "降雨"
+
+msgid "RAIN %d%%"
+msgstr "降雨 %d%%"
+
+msgid "RAIN --"
+msgstr "降雨 --"
+
+msgid "Rain"
+msgstr "雨"
+
+msgid "Rain & Snow"
+msgstr "雨夹雪"
+
+msgid "Rain likely"
+msgstr "预计有雨"
+
+msgid "Rain likely."
+msgstr "预计有雨。"
+
+msgid "Rated Voltage"
+msgstr "额定电压"
+
+msgid "Recovery"
+msgstr "恢复模式"
+
+msgid "Recurring"
+msgstr "重复"
+
+msgid "Refreshed? You slept for %dH %dM which is %d%% above your typical. Go tackle your day 😃."
+msgstr "精力充沛？您睡了 %d小时 %d分，比平时多了 %d%%。去大干一场吧 😃。"
+
+msgid "Remember to also forget your Pebble's Bluetooth connection from your phone."
+msgstr "请同时解除手机与 Pebble 的蓝牙配对。"
+
+msgid "Reminder"
+msgstr "提醒"
+
+msgid "Reminders"
+msgstr "提醒事项"
+
+msgid "Remove"
+msgstr "移除"
+
+msgid "Removed"
+msgstr "已移除"
+
+msgid "Reply with Voice"
+msgstr "语音回复"
+
+msgid "Resetting..."
+msgstr "正在重置…"
+
+msgid "Resting is fine, but try to recover and step it up tomorrow!"
+msgstr "休息一下没关系，不过要养足精神，明天再加把劲！"
+
+msgid "Retrying"
+msgstr "正在重试"
+
+msgid "Retrying offline"
+msgstr "正在离线重试"
+
+msgid "Reveille"
+msgstr "起床号"
+
+msgid "Rise and shine! You slept for %dH %dM which is %d%% above your typical. Do it again tonight, sleep master."
+msgstr "起床啦！您睡了 %d小时 %d分，比平时多了 %d%%。今晚再来一次，睡眠大师。"
+
+msgid "Run"
+msgstr "跑步"
+
+msgid ""
+"Run\n"
+"Detected"
+msgstr ""
+"跑步\n"
+"已检测"
+
+msgid "Run %s instead of %s as the background app?"
+msgstr "将 %s 作为后台应用运行而非 %s？"
+
+msgid "S"
+msgstr "南"
+
+msgid "SAVED LOCATIONS"
+msgstr "已保存位置"
+
+msgid "SE"
+msgstr "东南"
+
+msgid "SLEEP SESSION"
+msgstr "睡眠时段"
+
+msgid "SMTWTFS"
+msgstr "日一二三四五六"
+
+msgid "SPEED"
+msgstr "速度"
+
+msgid "SPEED (KM/H)"
+msgstr "速度 (公里/时)"
+
+msgid "SPEED (MPH)"
+msgstr "速度 (英里/时)"
+
+msgid "SPEED KM/H"
+msgstr "时速 公里"
+
+msgid "SPEED MPH"
+msgstr "时速 英里"
+
+msgid ""
+"START PLAYBACK\n"
+"ON YOUR PHONE"
+msgstr ""
+"在手机上\n"
+"开始播放"
+
+msgid "STARTS "
+msgstr "开始于 "
+
+msgid "STEPS"
+msgstr "步数"
+
+msgid "SW"
+msgstr "西南"
+
+msgid "Same as System"
+msgstr "跟随系统"
+
+msgid "Sat"
+msgstr "Sat"
+
+msgid "Saturday"
+msgstr "周六"
+
+msgid "Saturdays"
+msgstr "每周六"
+
+msgid "Saved Location"
+msgstr "已保存位置"
+
+msgid "Scaled"
+msgstr "缩放"
+
+msgid "Scaled (Bilinear)"
+msgstr "缩放 (双线性)"
+
+msgid "Scaled (Nearest)"
+msgstr "缩放 (最近邻)"
+
+msgid "Schedule"
+msgstr "定时"
+
+msgid "Schedule Time"
+msgstr "定时时间"
+
+msgid "See details..."
+msgstr "查看详情…"
+
+msgid "Select Contact"
+msgstr "选择联系人"
+
+msgid "Send Text"
+msgstr "发送短信"
+
+msgid "Sep"
+msgstr "9月"
+
+msgid "September"
+msgstr "9月"
+
+msgid "Serial"
+msgstr "序列号"
+
+msgid "Serious zzz's! Great for catching up; keep that routine steady."
+msgstr "睡得真沉！补觉很棒，继续保持规律作息。"
+
+msgid "Set Date"
+msgstr "设置日期"
+
+msgid "Set Time"
+msgstr "设置时间"
+
+msgid "Settings"
+msgstr "设置"
+
+msgid "Shake Log Info"
+msgstr "摇动日志信息"
+
+msgid "Share heart rate?"
+msgstr "共享心率？"
+
+msgid "Sharing Heart Rate"
+msgstr "共享心率"
+
+msgid "Sharing Heart Rate ❤"
+msgstr "共享心率 ❤"
+
+msgid "Shift up"
+msgstr "上移"
+
+msgid "Short night! Try going to bed a little earlier tonight."
+msgstr "睡得有点短！今晚试着早点睡。"
+
+msgid "Short night? You slept for %dH %dM. Most adults need at least 7 hours, so try heading to bed earlier tonight."
+msgstr "睡得有点短？您睡了 %d小时 %d分。成年人通常至少需要 7 小时，今晚试着早点睡吧。"
+
+msgid "Show"
+msgstr "显示"
+
+msgid "Shut Down"
+msgstr "关机"
+
+msgid "Sleep Algorithm"
+msgstr "睡眠算法"
+
+msgid "Sleep Summary"
+msgstr "睡眠摘要"
+
+msgid "Sleet likely"
+msgstr "预计有雨夹雪"
+
+msgid "Sleet likely."
+msgstr "预计有雨夹雪。"
+
+msgid "Smaller"
+msgstr "较小"
+
+msgid "Smart Alarm"
+msgstr "智能闹钟"
+
+msgid "Snooze"
+msgstr "稍后提醒"
+
+msgid "Snooze Delay"
+msgstr "稍后提醒间隔"
+
+msgid "Snooze delay set to %d minutes"
+msgstr "稍后提醒间隔已设为 %d 分钟"
+
+msgid "Snooze for %d minutes"
+msgstr "稍后 %d 分钟提醒"
+
+msgid "Snoozed"
+msgstr "已稍后提醒"
+
+msgid "Snow"
+msgstr "雪"
+
+msgid "Snow likely"
+msgstr "预计有雪"
+
+msgid "Snow likely."
+msgstr "预计有雪。"
+
+msgid "So close! A few more zzz's tonight and you're golden 😃"
+msgstr "就差一点！今晚再多睡一会儿就完美了 😃"
+
+msgid "So close! You slept for %dH %dM. Squeeze in a few more zzz's tonight and you'll be golden 😃"
+msgstr "就差一点！您睡了 %d小时 %d分。今晚再挤出一点睡眠时间就完美了 😃"
+
+msgid "Someone's on the move 👊 You walked %d steps today; keep doing what you're doing!"
+msgstr "不断前行 👊 您今天走了 %d 步，可要继续保持！"
+
+msgid "Sound"
+msgstr "声音"
+
+msgid "Sounds & Haptics"
+msgstr "声音和振动"
+
+msgid "South Korea KCC"
+msgstr "韩国 KCC"
+
+msgid "SpO2"
+msgstr "血氧"
+
+msgid "SpO2 Monitoring"
+msgstr "血氧监测"
+
+msgid "SpO2 Test"
+msgstr "血氧测试"
+
+msgid "Sports"
+msgstr "运动"
+
+msgid "Squish up"
+msgstr "压缩上移"
+
+msgid "Stand-By Mode"
+msgstr "待机模式"
+
+msgid "Standard"
+msgstr "标准"
+
+msgid "Standard - High"
+msgstr "标准 - 高"
+
+msgid "Standard - Low"
+msgstr "标准 - 低"
+
+msgid "Standard - Medium"
+msgstr "标准 - 中"
+
+msgid "Start"
+msgstr "开始"
+
+msgid "Start Quiet Time"
+msgstr "开始勿扰时间"
+
+msgid "Start Quiet Time?"
+msgstr "开始勿扰时间？"
+
+msgid "Start Time"
+msgstr "开始时间"
+
+msgid "Status Bar"
+msgstr "状态栏"
+
+msgctxt "StatusBar"
+msgid "Default"
+msgstr "默认"
+
+msgid "Steps"
+msgstr "步数"
+
+msgid "Still sweating? Your workout is active and will be ended soon. Open the workout to keep it going."
+msgstr "还在锻炼吗？您的锻炼仍在进行，很快就会自动结束。打开锻炼即可继续。"
+
+msgid "Stop Sharing Heart Rate"
+msgstr "停止共享心率"
+
+msgid "Strong winds"
+msgstr "大风"
+
+msgid "Strong winds."
+msgstr "大风。"
+
+msgid "Sun"
+msgstr "Sun"
+
+msgid "Sunday"
+msgstr "周日"
+
+msgid "Sundays"
+msgstr "每周日"
+
+msgid "Sunny"
+msgstr "晴"
+
+msgid "Sunrise"
+msgstr "日出"
+
+msgid "Sunset"
+msgstr "日落"
+
+msgid "Sunset %s"
+msgstr "日落 %s"
+
+msgid "Sunset --:--"
+msgstr "日落 --:--"
+
+msgid "Sunset at %s"
+msgstr "日落 %s"
+
+msgid "Sunset at --:--"
+msgstr "日落 --:--"
+
+msgctxt "SunsetCard"
+msgid "Sunset"
+msgstr "日落"
+
+msgid "System"
+msgstr "系统"
+
+msgid "TIME IN ZONE"
+msgstr "区间时长"
+
+msgid "TIME IN ZONES"
+msgstr "区间时长"
+
+msgid "TIMEOUT"
+msgstr "显示时长"
+
+msgid "TIMER"
+msgstr "计时器"
+
+msgid "TODAY"
+msgstr "今天"
+
+msgid "TODAY'S RANGE"
+msgstr "今日范围"
+
+msgid "TOMORROW"
+msgstr "明天"
+
+msgid "TOTAL"
+msgstr "总计"
+
+msgid "TOTAL TIME"
+msgstr "总时长"
+
+msgid "TYPICAL %s"
+msgstr "TYPICAL %s"
+
+msgid "Tap"
+msgstr "点按"
+
+msgid "Tap Down"
+msgstr "点按下方"
+
+msgid "Tap Up"
+msgstr "点按上方"
+
+msgid "Text Size"
+msgstr "文字大小"
+
+msgctxt "TextSize"
+msgid "Default"
+msgstr "默认"
+
+msgid "Thanks!"
+msgstr "谢谢！"
+
+msgid "That's a lot of sheep you just counted! You slept for %dH %dM which is %d%% above your typical. Boom shakalaka."
+msgstr "数了这么多羊！您睡了 %d小时 %d分，比平时多了 %d%%。太棒了！"
+
+msgid "That's a lot of sheep you just counted! You slept for %dH %dM, more than most adults need. Catching up is fine; try to keep a steady routine."
+msgstr "数了这么多羊！您睡了 %d小时 %d分，比多数成年人都多。偶尔补觉没问题，尽量保持规律作息。"
+
+msgid "Themes"
+msgstr "主题"
+
+msgid "This app needs hardware this watch does not have."
+msgstr "此应用需要本手表不具备的硬件。"
+
+msgid "This app requires a newer version of the Pebble firmware."
+msgstr "此应用需要更新版本的 Pebble 固件。"
+
+msgid "This app uses RockyJS which is no longer supported."
+msgstr "此应用使用的 RockyJS 已不再受支持。"
+
+msgid "This feature requires Pebble Health to work. Enable Health in the Pebble mobile app to continue."
+msgstr "此功能需要 Pebble Health 才能运行。请在 Pebble 手机应用中启用 Health 以继续。"
+
+msgid "Thu"
+msgstr "Thu"
+
+msgid "Thursday"
+msgstr "周四"
+
+msgid "Thursdays"
+msgstr "每周四"
+
+msgid "Time Format"
+msgstr "时间格式"
+
+msgid "Time Source"
+msgstr "时间来源"
+
+msgid "Timeline"
+msgstr "时间线"
+
+msgid "Timeline Future"
+msgstr "未来时间线"
+
+msgid "Timeline Past"
+msgstr "历史时间线"
+
+msgid "Timeout"
+msgstr "显示时长"
+
+msgid "Timezone"
+msgstr "时区"
+
+msgid "Timezone Source"
+msgstr "时区来源"
+
+msgid "Timing"
+msgstr "显示时机"
+
+msgctxt "TmplStringMany"
+msgid " d"
+msgstr " 天"
+
+msgctxt "TmplStringMany"
+msgid " days"
+msgstr " 天"
+
+msgctxt "TmplStringMany"
+msgid " hours"
+msgstr " 小时"
+
+msgctxt "TmplStringMany"
+msgid " hr"
+msgstr " 小时"
+
+msgctxt "TmplStringMany"
+msgid " min"
+msgstr " 分"
+
+msgctxt "TmplStringMany"
+msgid " minutes"
+msgstr " 分"
+
+msgctxt "TmplStringMany"
+msgid " mo"
+msgstr " 个月"
+
+msgctxt "TmplStringMany"
+msgid " months"
+msgstr " 个月"
+
+msgctxt "TmplStringMany"
+msgid " sec"
+msgstr " 秒"
+
+msgctxt "TmplStringMany"
+msgid " seconds"
+msgstr " 秒"
+
+msgctxt "TmplStringMany"
+msgid " years"
+msgstr " 年"
+
+msgctxt "TmplStringMany"
+msgid " yr"
+msgstr " 年"
+
+msgctxt "TmplStringPlur"
+msgid " d"
+msgstr " 天"
+
+msgctxt "TmplStringPlur"
+msgid " days"
+msgstr " 天"
+
+msgctxt "TmplStringPlur"
+msgid " hours"
+msgstr " 小时"
+
+msgctxt "TmplStringPlur"
+msgid " hr"
+msgstr " 小时"
+
+msgctxt "TmplStringPlur"
+msgid " min"
+msgstr " 分"
+
+msgctxt "TmplStringPlur"
+msgid " minutes"
+msgstr " 分"
+
+msgctxt "TmplStringPlur"
+msgid " mo"
+msgstr " 个月"
+
+msgctxt "TmplStringPlur"
+msgid " months"
+msgstr " 个月"
+
+msgctxt "TmplStringPlur"
+msgid " sec"
+msgstr " 秒"
+
+msgctxt "TmplStringPlur"
+msgid " seconds"
+msgstr " 秒"
+
+msgctxt "TmplStringPlur"
+msgid " years"
+msgstr " 年"
+
+msgctxt "TmplStringPlur"
+msgid " yr"
+msgstr " 年"
+
+msgctxt "TmplStringSep"
+msgid " "
+msgstr " "
+
+msgctxt "TmplStringSep"
+msgid ", "
+msgstr "、"
+
+msgctxt "TmplStringSep"
+msgid ", and "
+msgstr " 和 "
+
+msgctxt "TmplStringSep"
+msgid ":"
+msgstr ":"
+
+msgctxt "TmplStringSing"
+msgid " d"
+msgstr " 天"
+
+msgctxt "TmplStringSing"
+msgid " day"
+msgstr " 天"
+
+msgctxt "TmplStringSing"
+msgid " hour"
+msgstr " 小时"
+
+msgctxt "TmplStringSing"
+msgid " hr"
+msgstr " 小时"
+
+msgctxt "TmplStringSing"
+msgid " min"
+msgstr " 分"
+
+msgctxt "TmplStringSing"
+msgid " minute"
+msgstr " 分"
+
+msgctxt "TmplStringSing"
+msgid " mo"
+msgstr " 个月"
+
+msgctxt "TmplStringSing"
+msgid " month"
+msgstr " 个月"
+
+msgctxt "TmplStringSing"
+msgid " sec"
+msgstr " 秒"
+
+msgctxt "TmplStringSing"
+msgid " second"
+msgstr " 秒"
+
+msgctxt "TmplStringSing"
+msgid " year"
+msgstr " 年"
+
+msgctxt "TmplStringSing"
+msgid " yr"
+msgstr " 年"
+
+msgid "Today"
+msgstr "今天"
+
+msgid "Toggle Airplane Mode"
+msgstr "切换飞行模式"
+
+msgid "Toggle Backlight"
+msgstr "切换背光"
+
+msgid "Toggle Motion Backlight"
+msgstr "切换抬手背光"
+
+msgid "Toggle Quiet Time"
+msgstr "切换勿扰"
+
+msgid "Toggle Touch"
+msgstr "切换触控"
+
+msgid "Tomorrow"
+msgstr "明天"
+
+msgid "Touch"
+msgstr "触控"
+
+msgid "Touch Navigation"
+msgstr "触控导航"
+
+msgid "Touch Off"
+msgstr "触控关"
+
+msgid "Touch On"
+msgstr "触控开"
+
+msgctxt "TouchWake"
+msgid "Off"
+msgstr "关"
+
+msgid "Track your steps, sleep, and more! Enable Pebble Health in the mobile app."
+msgstr "追踪您的步数、睡眠等！在手机应用中启用 Pebble Health。"
+
+msgid "Trademark"
+msgstr "商标"
+
+msgid "Tue"
+msgstr "Tue"
+
+msgid "Tuesday"
+msgstr "周二"
+
+msgid "Tuesdays"
+msgstr "每周二"
+
+msgid "Turn Off Airplane Mode?"
+msgstr "关闭飞行模式？"
+
+msgid "Turn Off Backlight?"
+msgstr "关闭背光？"
+
+msgid "Turn Off Motion Backlight?"
+msgstr "关闭抬手背光？"
+
+msgid "Turn Off Touch?"
+msgstr "关闭触控？"
+
+msgid "Turn On Airplane Mode?"
+msgstr "开启飞行模式？"
+
+msgid "Turn On Backlight?"
+msgstr "开启背光？"
+
+msgid "Turn On Motion Backlight?"
+msgstr "开启抬手背光？"
+
+msgid "Turn On Touch?"
+msgstr "开启触控？"
+
+msgid "UV"
+msgstr "紫外线"
+
+msgid "UV %d"
+msgstr "紫外线 %d"
+
+msgid "UV --"
+msgstr "紫外线 --"
+
+msgid "UV INDEX"
+msgstr "紫外线指数"
+
+msgid "Unable to connect. Your weather data may be out of date; try checking the connection on your phone."
+msgstr "无法连接。您的天气数据可能已过期，请检查手机的连接。"
+
+msgid "Unassigned"
+msgstr "未分配"
+
+msgid "Unknown"
+msgstr "未知"
+
+msgid "Unsupported Faces"
+msgstr "不支持的表盘"
+
+msgid "Update Complete"
+msgstr "更新完成"
+
+msgid "Update Failed"
+msgstr "更新失败"
+
+msgid "Uptime"
+msgstr "运行时间"
+
+msgid "Very High"
+msgstr "极高"
+
+msgid "Very Low"
+msgstr "极低"
+
+msgid "Very high UV"
+msgstr "紫外线极强"
+
+msgid "Very high UV."
+msgstr "紫外线极强。"
+
+msgid "Vibe Log Info"
+msgstr "振动日志信息"
+
+msgid "Vibe Timing"
+msgstr "振动时机"
+
+msgid "Vibration: Off"
+msgstr "振动：关"
+
+msgid "Vibration: On"
+msgstr "振动：开"
+
+msgid "Vibrations"
+msgstr "振动"
+
+msgid "Voice"
+msgstr "语音"
+
+msgid "Volume"
+msgstr "音量"
+
+msgid "W"
+msgstr "西"
+
+msgid "WAITING FOR HR"
+msgstr "等待心率"
+
+msgid "WAKE ON TOUCH"
+msgstr "触控唤醒"
+
+msgid "WEATHER REPORT"
+msgstr "天气预报"
+
+msgid "WEEKDAYS"
+msgstr "工作日"
+
+msgid "WEEKENDS"
+msgstr "周末"
+
+msgid "WORKOUT"
+msgstr "锻炼"
+
+msgid "Wake on motion"
+msgstr "抬手唤醒"
+
+msgid "Wake on touch"
+msgstr "触控唤醒"
+
+msgid "Wake up between"
+msgstr "唤醒时段"
+
+msgid "Wake up interval"
+msgstr "唤醒区间"
+
+msgid "Walk"
+msgstr "步行"
+
+msgid ""
+"Walk\n"
+"Detected"
+msgstr ""
+"步行\n"
+"已检测"
+
+msgid "Watchfaces"
+msgstr "表盘"
+
+msgid "Watt-hour"
+msgstr "瓦时"
+
+msgid "Wave"
+msgstr "波浪"
+
+msgid "Way to keep it active!"
+msgstr "继续保持活跃！"
+
+msgid "Way to show us what you're made of 👊"
+msgstr "让我们看到了您的实力 👊"
+
+msgid "We can barely keep up! You walked %d steps today which is %d%% above your typical. You're on 🔥"
+msgstr "几乎没有人能跟上您！您今天走了 %d 步，比平时多了 %d%%。您真是太棒了 🔥"
+
+msgid "We'll get there!"
+msgstr "我们会成功的！"
+
+msgid "Wear your watch snug and 2 fingers' width above your wrist bone for best results."
+msgstr "请将手表贴身佩戴，并在手腕骨上方约两指宽处，以获得最佳效果。"
+
+msgid "Weather"
+msgstr "天气"
+
+msgid "Wed"
+msgstr "Wed"
+
+msgid "Wednesday"
+msgstr "周三"
+
+msgid "Wednesdays"
+msgstr "每周三"
+
+msgid "Weekdays"
+msgstr "工作日"
+
+msgid "Weekends"
+msgstr "周末"
+
+msgid "Well done 💪"
+msgstr "干得好 💪"
+
+msgid "Well rested? You slept for %dH %dM. Extra sleep helps you recover, but most adults do best with 7 to 9 hours."
+msgstr "睡够了吗？您睡了 %d小时 %d分。多睡有助恢复，不过成年人 7 到 9 小时最合适。"
+
+msgid ""
+"While your Pebble was off wakeup events occurred for:\n"
+msgstr ""
+"您的 Pebble 在关机期间发生了以下唤醒事件：\n"
+
+msgid "Whoa, epic snooze! You slept for %dH %dM. Catching up is cool; a regular bedtime and wake time keep you at your best."
+msgstr "哇，睡得真久！您睡了 %d小时 %d分。补觉不错，固定的作息时间能让您保持最佳状态。"
+
+msgid "Winds %d%s."
+msgstr "风速 %d%s。"
+
+msgid "Winds %s %d%s."
+msgstr "%s风 %d%s。"
+
+msgid "Winds %s at %d%s."
+msgstr "%s风，风速 %d%s。"
+
+msgid "Winds at %d%s."
+msgstr "风速 %d%s。"
+
+msgid "Windy"
+msgstr "风大"
+
+msgid "Windy."
+msgstr "风大。"
+
+msgid "Wintry mix"
+msgstr "雨夹雪"
+
+msgid "Wintry mix."
+msgstr "雨夹雪。"
+
+msgid "Workin' up a sweat?"
+msgstr "出汗了吗？"
+
+msgid "Workout"
+msgstr "锻炼"
+
+msgid ""
+"Workout\n"
+"Detected"
+msgstr ""
+"锻炼\n"
+"已检测"
+
+msgid ""
+"Workout\n"
+"Ended"
+msgstr ""
+"锻炼\n"
+"已结束"
+
+msgid "Workout requires the time to be synced. Please connect your phone."
+msgstr "锻炼功能需要先同步时间。请连接手机。"
+
+msgid "YOU NAPPED"
+msgstr "您小睡了"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "Yesterday"
+msgstr "昨天"
+
+msgid "Yesterday, %R"
+msgstr "昨天 %R"
+
+msgid "Yesterday, %l:%M %p"
+msgstr "昨天 %p%l:%M"
+
+msgid "You caught some killer zzz’s! You slept for %dH %dM which is %d%% above your typical. Keep it up."
+msgstr "睡得真沉！您睡了 %d小时 %d分，比平时多了 %d%%。继续保持。"
+
+msgid "You caught some serious zzz's! You slept for %dH %dM. Great for catching up; keep that routine steady."
+msgstr "睡得真沉！您睡了 %d小时 %d分。补觉很棒，继续保持规律作息。"
+
+msgid "You got the moves!"
+msgstr "身手真不错！"
+
+msgid "You had a good night! Feel the energy 😃"
+msgstr "您昨晚睡得很好！感受满满的活力吧 😃"
+
+msgid "You keep moving, we'll keep counting! You've clocked in %d steps today. Keep it rolling, hot stuff."
+msgstr "只要您持续活动，我们就一直记录！您今天已经走了 %d 步。继续加油啊，大佬。"
+
+msgid "You only slept for %dH %dM which is %d%% below your typical. We know you're busy, but try getting more tonight. We believe in you 😉"
+msgstr "您只睡了 %d小时 %d分，比平时少了 %d%%。知道您很忙，今晚尽量多睡一点，相信您 😉"
+
+msgid "You slept for %dH %dM which is %d%% below your typical. Sleep is vital for all your great ideas–how 'bout getting more tonight?"
+msgstr "您睡了 %d小时 %d分，比平时少了 %d%%。睡眠是好点子的源泉，今晚多睡一会儿怎么样？"
+
+msgid "You slept for %dH %dM which is %d%% below your typical. We know stuff happens; take another crack at it tonight."
+msgstr "您睡了 %d小时 %d分，比平时少了 %d%%。谁都有意外，今晚再试一次。"
+
+msgid "You slept for %dH %dM, more than most adults need. Catching up now and then is fine; try to keep a steady routine."
+msgstr "您睡了 %d小时 %d分，比多数成年人都多。偶尔补觉没问题，尽量保持规律作息。"
+
+msgid "You slept for %dH %dM. A long night can help you catch up after short ones; a steady routine is what counts."
+msgstr "您睡了 %d小时 %d分。偶尔睡久一点能补上欠的觉，规律作息才最关键。"
+
+msgid "You slept for %dH %dM. Sleep fuels everything you do; let's aim for more tonight 😉"
+msgstr "您睡了 %d小时 %d分。睡眠影响着您做的每件事，今晚争取多睡一点 😉"
+
+msgid "You slept for %dH %dM. That's a long night! Great for recovering, but a regular bedtime and wake time will help you feel your best."
+msgstr "您睡了 %d小时 %d分。睡得真久！补觉很好，不过固定的作息时间会让您状态更好。"
+
+msgid "You slept for %dH %dM. You're close! A little extra tonight goes a long way."
+msgstr "您睡了 %d小时 %d分。就差一点了，今晚多睡一会儿很有用。"
+
+msgid "You walked %d steps today which is %d%% above your typical. You just outstepped YOURSELF. Mic drop."
+msgstr "您今天走了 %d 步，比平时多了 %d%%。您超越了自己。简直太厉害了。"
+
+msgid "You walked %d steps today which is %d%% below your typical. Don't worry, tomorrow is just around the corner 😀"
+msgstr "您今天走了 %d 步，比平时少了 %d%%。别担心，明天很快就会到来 😀"
+
+msgid "You walked %d steps today which is %d%% below your typical. Try to be more active tomorrow–you can do it!"
+msgstr "您今天走了 %d 步，比平时少了 %d%%。明天试着更活跃一些，您一定能做到！"
+
+msgid "You walked %d steps today. Don't fret, you can get back on track in no time 😉"
+msgstr "您今天走了 %d 步。别担心，您很快就能回到正轨 😉"
+
+msgid "You walked %d steps today. Good news is the sky's the limit!"
+msgstr "您今天走了 %d 步。好消息是您的前途无量！"
+
+msgid "You walked %d steps today. Try to take even more steps tomorrow–show us what you're made of!"
+msgstr "您今天走了 %d 步。明天试着走更多步，让我们看看您的实力！"
+
+msgid "You walked %d steps today; keep it up! Being active is the key to feeling like a million bucks. Try to beat your typical tomorrow."
+msgstr "您今天走了 %d 步，继续保持！积极活动是感觉良好的关键。明天试着超越平时的记录。"
+
+msgid "You walked %d steps which is %d%% below your typical, but don't stress. You'll crush it tomorrow 😉"
+msgstr "您走了 %d 步，比平时少了 %d%%，但别紧张。明天您会表现更好 😉"
+
+msgid "You walked %d steps which is %d%% below your typical. Being active makes you feel amaaaazing–try to get back on track tomorrow."
+msgstr "您走了 %d 步，比平时少了 %d%%。积极活动会让您感觉棒极了，明天试着回到正轨。"
+
+msgid "You're a machine!"
+msgstr "您还真是不知疲倦！"
+
+msgid "You're all set"
+msgstr "一切就绪"
+
+msgid "You're being consistent and that's important, keep at it!"
+msgstr "您一直很坚持，这很重要，请继续保持！"
+
+msgid "You're rockin' the shut eye! You slept for %dH %dM. Make it a nightly ritual. You deserve it."
+msgstr "睡得真香！您睡了 %d小时 %d分。把它变成每晚的习惯吧，您值得拥有。"
+
+msgid "Your heart rate has been shared with an app on your phone for several hours. This could affect your battery. Stop sharing now?"
+msgstr "您的心率已与手机上的应用共享数小时，可能会影响电池续航。要停止共享吗？"
+
+msgid "Your iPhone is not sharing notifications with this watch. On your iPhone, open Settings > Bluetooth, tap the (i) next to your Pebble and turn on Share System Notifications."
+msgstr "您的 iPhone 没有把通知共享给这块手表。请在 iPhone 上打开 设置 > 蓝牙，点一下 Pebble 旁的 (i)，开启 共享系统通知。"
+
+msgid "Z%d"
+msgstr "区%d"
+
+msgid "ZONE %d"
+msgstr "区间 %d"
+
+msgid "am"
+msgstr "am"
+
+msgid "h"
+msgstr "h"
+
+msgid "iPhone Notifications Blocked"
+msgstr "iPhone 通知已被拦截"
+
+msgid "kcal"
+msgstr "千卡"
+
+msgid "km"
+msgstr "公里"
+
+msgid "km/h"
+msgstr "公里/时"
+
+msgid "kt"
+msgstr "节"
+
+msgid "m/s"
+msgstr "米/秒"
+
+msgid "mi"
+msgstr "英里"
+
+msgid "min"
+msgstr "min"
+
+msgid "mph"
+msgstr "英里/时"
+
+msgid "pm"
+msgstr "pm"
+
+msgid "sent an attachment"
+msgstr "发送了附件"
+
+msgid "the day after tomorrow"
+msgstr "后天"
+
+msgid "the foreseeable future"
+msgstr "可预见的未来"
+
+msgid "this afternoon"
+msgstr "今天下午"
+
+msgid "this evening"
+msgstr "今天晚上"
+
+msgid "this morning"
+msgstr "今天早上"
+
+msgid "tomorrow afternoon"
+msgstr "明天下午"
+
+msgid "tomorrow evening"
+msgstr "明天晚上"
+
+msgid "tomorrow morning"
+msgstr "明天早上"
+
+msgid "tomorrow night"
+msgstr "明晚"
+
+msgid "tonight"
+msgstr "今晚"
+
+msgid "van Hees"
+msgstr "van Hees"

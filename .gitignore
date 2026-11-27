@@ -1,0 +1,14 @@
+# Build outputs & binary assets (published via GitHub Releases)
+dist/
+build/
+*.pbl
+*.mo
+*.pbf
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store
