@@ -1,3 +1,71 @@
+# Pebble Simplified Chinese Language Pack (Noto Sans SC)
+
+English · [简体中文](#pebble-简体中文语言包思源黑体)
+
+A Simplified Chinese language pack built for the Pebble Time 2 (and PebbleOS v4.19+ firmware). It fixes the official pack's serif font, whose glyphs are clipped at the top, and the small glyph sizes and missing true bold of earlier community packs.
+
+Current version: **v11** — download `pebble-zh-CN-notosans-v11.pbl` from [Releases](../../releases).
+
+![Preview](preview-zh.png)
+
+## Font
+
+- **Noto Sans SC**, **11 non-empty font slots**:
+  - `GOTHIC_14 / 18 / 24 / 28 / 36` in Regular + true Bold (10 slots; hanzi heights 13 / 16 / 19 / 22 / 26 px)
+  - `ROBOTO_CONDENSED_21` Regular (the 19th slot; hanzi height 18 px)
+- **10,398 glyphs per slot**: full coverage of the GB2312 hanzi repertoire plus common Big5 traditional characters, so traditional variants that appear in dictation (e.g. 「氣」「麼」) render instead of tofu boxes
+- Glyph baselines aligned precisely with PebbleOS's official Latin fonts — no top clipping, no drift, flush with the Latin baseline
+- The system's native LECO numeric summary-card style is preserved (sleep / heart-rate summary cards show `6h 22min`, `93 BPM`; no LECO extension slots are packed)
+
+## Translation
+
+- Covers every `pbl_i18n_*` system string in the latest `coredevices/PebbleOS` `main` branch, and stays compatible with legacy firmware strings — **955 valid translations** (956 MO entries including the metadata header)
+- The system addresses the user politely as 「您」 throughout; terminology was polished over multiple proofreading rounds (e.g. `Timeout / TIMEOUT` unified as 「显示时长」 so it works in both the backlight and the notification menus, `Motion Backlight` as 「抬手背光」 to distinguish it from dynamic backlight, heart rate unified to `BPM`, sleep insights unified to `%d小时 %d分`, compact `%dH %dM` kept on narrow stat cards to avoid truncation, consistent wording for workouts and touch) — no empty entries, no format-specifier errors
+
+## Verification
+
+- STM32 CRC-32 of the package (whole package and all 19 slots) all pass, with zero tail bytes
+- Offline simulation of the firmware's PJW hash lookup (`subsys/i18n/i18n.c`): 956 / 956 hits
+- 100% of the non-emoji Chinese and punctuation characters used in the translations are covered by the 11 font slots
+- Verified displaying correctly on a real Pebble Time 2
+
+## Installation & hardware compatibility
+
+- **Compatible models**: models with 32 MB flash are recommended, such as Pebble Time 2 (Obelix) / Pebble Round 2 (Getafix). The pack is about **6.0 MiB (6.28 MB)**; older Pebble models with smaller flash may not be able to install it.
+- **Steps**:
+  1. Download `pebble-zh-CN-notosans-v11.pbl` from [Releases](../../releases)
+  2. Open the file with the Pebble phone app to install it; if another Chinese pack is already installed, delete it in the app first
+  3. After installing, select "Simplified Chinese" in the language settings
+
+> Note: text belonging to third-party watchfaces / apps, and the body of notifications pushed from the phone, are outside the scope of any system language pack — no language pack can translate third-party app text (although this pack's Noto Sans SC glyph library renders the Chinese in them correctly).
+
+## Source & building it yourself
+
+This repository open-sources all translation sources and the packing / verification scripts. Issues and PRs to improve the translations are welcome:
+
+- [`po/zh_CN.po`](po/zh_CN.po): the Simplified Chinese translation source (GNU gettext PO)
+- [`scripts/build_pbl.py`](scripts/build_pbl.py): compiles the `.po` and packs the `.pbl` (CRC-32 per the PebbleOS `stm32_crc` spec)
+- [`scripts/verify_pbl.py`](scripts/verify_pbl.py): offline verification of a `.pbl` — CRC, MO key ordering, the PJW hash table, format specifiers, glyph coverage, and coverage of the PebbleOS source strings
+- [`scripts/render_preview.py`](scripts/render_preview.py): renders `preview-zh.png` from the real PBF bitmaps inside the `.pbl`
+
+Example (repack, reusing the 11 Noto Sans SC font slots from any existing `.pbl`):
+
+```bash
+python3 scripts/build_pbl.py \
+  --po po/zh_CN.po \
+  --base-pbl pebble-zh-CN-notosans-v10.pbl \
+  --out dist/pebble-zh-CN-notosans-v11.pbl
+
+python3 scripts/verify_pbl.py dist/pebble-zh-CN-notosans-v11.pbl
+```
+
+## License
+
+- Font: Noto Sans SC © Google, licensed under SIL Open Font License 1.1
+- Translations and scripts: MIT (see [`LICENSE`](LICENSE))
+
+---
+
 # Pebble 简体中文语言包（思源黑体）
 
 专为 Pebble Time 2（及 PebbleOS v4.19+ 固件）打造的简体中文语言包，解决官方语言包宋体字形裁顶、社区包字号偏小且无真粗体的问题。
