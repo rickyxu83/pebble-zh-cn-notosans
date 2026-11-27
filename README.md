@@ -8,6 +8,8 @@ Current version: **v11** — download `pebble-zh-CN-notosans-v11.pbl` from [Rele
 
 ![Preview](preview-zh.png)
 
+> **How this was made:** this is a *Vibe Coding* project — the maintainer does not write code himself. The translations, tooling and packaging were all produced with AI coding agents under his direction, and every release is verified on a real Pebble Time 2.
+
 ## Font
 
 - **Noto Sans SC**, **11 non-empty font slots**:
@@ -73,6 +75,8 @@ python3 scripts/verify_pbl.py dist/pebble-zh-CN-notosans-v11.pbl
 当前版本：**v11**，请到 [Releases](../../releases) 下载 `pebble-zh-CN-notosans-v11.pbl`。
 
 ![预览](preview-zh.png)
+
+> **制作方式**：本项目是一个 *Vibe Coding* 作品——维护者本人不写代码，翻译、脚本与打包均由 AI 编程助手在其指导下完成，每个版本都在 Pebble Time 2 真机上验证。
 
 ## 字体
 
